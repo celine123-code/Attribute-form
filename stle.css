@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body{
+    
+    font-family: sans-serif;
+}
+#main{
+    background-color: #f0eeee;
+    font-size: 17px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue' Arial, sans-serif ;
+    color: rgb(20, 16, 16)
+  
+   
+
+   
+}
+#img-caption{
+    padding: 20px;
+}
+
+
+#caption{
+    justify-content: center;
+    text-align: center;
+   
+
+}
+#count h1{
+    font-size: 18px;
+    margin-left:20%;
+    padding: 20px;
+}
+
+#tribute-link{
+    color: #2384d3;
+    font-size: 18px;
+}
+#caption p{
+    margin:20px;
+}
+#pedia{
+    font-family: sans-serif;
+    margin-left: 20%;
+    margin: 20px;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+    
+   
+}
+#img-div{
+    margin:20px;
+    background-color: white;
+}
+#title{
+    margin:20px;
+    padding: 20px;
+
+    
+}
+#tower{
+    font-style: italic;
+}
+#img-caption{
+    margin: 20px;
+}
+#count{
+    width: 50%;
+    margin: auto;
+    gap:20px;
+    }
+li{
+        margin: 20px;
+        width: 70%;
+     margin-top: 30px;
+    }
